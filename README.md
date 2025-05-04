@@ -1,4 +1,4 @@
-# 👋 Welcome to CSI-TSEC
+# 👋 Welcome to [CSI-TSEC](https://csitsec.in/)
 
 **CSI-TSEC** is the official student chapter of the [Computer Society of India (CSI)](https://www.csi-india.org/) at [Thadomal Shahani Engineering College (TSEC)](https://tsec.edu/), Bandra, Mumbai.
 
